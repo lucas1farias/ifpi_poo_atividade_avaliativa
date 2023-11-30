@@ -21,6 +21,7 @@ import prompt from "prompt-sync"
 const entrada = prompt()
 let opcao: string
 do {
+    console.clear()
     console.log("Escolha:\n0. SAIR\n1. erro 1\n2. erro 2\n3. erro 3")
     opcao = entrada(" >>>")
     if(opcao === "1") {self.bank.sacar(self.mariazinha.number, -5)}

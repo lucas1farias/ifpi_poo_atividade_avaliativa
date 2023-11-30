@@ -29,6 +29,7 @@ let entrada = prompt()
 let opcao: string
 
 do {
+    console.clear()
     console.log("Qual função deseja usar?\n0. SAIR\n1. consultar\n2. consultarPorIndice")
     opcao = entrada(">>> ")
     

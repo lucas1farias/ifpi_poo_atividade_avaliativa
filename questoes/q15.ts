@@ -15,5 +15,4 @@ Nota:
 
 /* ===== COMO CONSULTAR AS MUDANÇAS? =====
    -> caminho: app/app.ts
-   -> Funções: ()
 */

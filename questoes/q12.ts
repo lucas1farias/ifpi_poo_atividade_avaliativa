@@ -20,7 +20,7 @@ let opcao: string
 
 do {
     console.clear()
-console.log("===== Escolha a opção =====\n0. SAIR\n1. sem erro\n2. erro")
+    console.log("===== Escolha a opção =====\n0. SAIR\n1. sem erro\n2. erro")
     opcao = entrada(">>> ")
     if (opcao === "1") {
         // Meriazinha é "Poupanca": ela passa 
