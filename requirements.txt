@@ -1,0 +1,11 @@
+
+
+npm install typescript ts-node --save-dev
+npm install prompt-sync
+npm install --save @types/prompt-sync
+
+npx tsc --init (se arquivo "tsconfig.json" não existir)
+
+===== tsconfig.json =====
+"allowImportingTsExtensions": true
+"noEmit": true
