@@ -14,6 +14,5 @@ CAMINHO:
 import * as self from "../utils/utils"
 
 self.bank.inserir(self.pessoaQ3)
-console.log("EXCEÇÃO ENCONTRADA...")
-self.warning()
-self.bank.sacar(self.pessoaQ3.number, 7)
+self.warning("EXCEÇÃO ENCONTRADA...")
+self.bank.sacar(self.pessoaQ3.number, 11)

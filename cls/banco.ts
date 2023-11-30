@@ -101,7 +101,7 @@ export class Banco {
         // Pode lançar exceção, mas não lançando, ainda precisa tratar o valor do saque
         const accountExists = this.consultar(i)
         
-        // q3
+        //q3
         if (accountExists.balance < value) {
             throw new FundosInsuficientesError('FUNDOS INSUFICIENTES')
         }
