@@ -1,5 +1,5 @@
 # ifpi_poo_atividade_avaliativa
-Atividade avaliativa para segunda prova
+Score activity for second test
 
 ### Git clone or download the repository
 `After downloading the project files, rename it or keep the name as you wish`
@@ -32,8 +32,8 @@ step 2
 npx ts-node app.ts
 ```
 
-# ifpi_modulo_2_poo_prova
-`Minha prova da disciplina de POO neste semestre`
+# ifpi_poo_atividade_avaliativa
+Atividade avaliativa para segunda prova
 
 ### Git clone ou baixar este repositório
 `Após baixar os arquivos do projeto, renomei-o ou mantenha o nome como desejar`
